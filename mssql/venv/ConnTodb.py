@@ -1,3 +1,6 @@
+# …or push an existing repository from the command line
+# git remote add origin https://github.com/nvetrov/MSSQL.git
+# git push -u origin master
 import pyodbc
 server = 'tcp:prs043'
 database = 'OST'
